@@ -71,8 +71,24 @@ Assaulter is currently using multiple Python modules, to work properly. Instruct
 | urllib.parse| [Link](https://docs.python.org/3/library/urllib.parse.html) |
 | sys | [Link](https://docs.python.org/3/library/sys.html) |
 
-
 ## License
 [![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE)
 
 This program is free software: you can redistribute it and/or modify it under the terms of the [MIT LICENSE](https://github.com/17h4ck3r11/Assaulter/blob/master/LICENSE).
+
+## Contribution
+Before making any contribution, read the [Contribution Guide](https://github.com/17h4ck3r11/Assaulter/blob/master/CONTRIBUTING.md)
+
+#### Contributed by:
+
+
+
+<table>
+	<tr>
+		 <td>
+  		<a href="https://github.com/17h4ck3r11/Assaulter/graphs/contributors">
+             <img src="https://contrib.rocks/image?repo=17h4ck3r11/Assaulter" />
+        </a>
+		</td>
+	</tr>
+</table>
