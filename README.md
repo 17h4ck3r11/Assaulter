@@ -1,12 +1,9 @@
-<h1 align="center">Assaulter</h1>
-<br />
 <p align="center">
+<a href="https://17h4ck3r11.github.io/Assaulter">
     <img src="Image/logo.png" alt="Logo" width="240" height="240"> 
- 
+ </a>
+<br /> 
 <h2 align="center"><i>Hold it and Kill all the Vulnerabilities ( う-´)づ︻╦╤──</i></h2>
-<h3 align="center">Contributor: <a href=https://17h4ck3r11.github.io>17h4ck3r11</a></h3>
-<br />
-
 
 <p align="center"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&amp;logo=pyPPthon&amp;logoColor=ffdd54"
             alt="Python"><img
@@ -76,11 +73,8 @@ Assaulter is currently using multiple Python modules, to work properly. Instruct
 
 This program is free software: you can redistribute it and/or modify it under the terms of the [MIT LICENSE](https://github.com/17h4ck3r11/Assaulter/blob/master/LICENSE).
 
-## Contribution
+## Contributor
 Before making any contribution, read the [Contribution Guide](https://github.com/17h4ck3r11/Assaulter/blob/master/CONTRIBUTING.md)
-
-#### Contributed by:
-
 
 
 <table>
