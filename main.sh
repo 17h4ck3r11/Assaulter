@@ -74,7 +74,7 @@ printf "\n\n"
 
 sleep 0.5
 
-echo $'\e[1;33'[+] Enumerating subdomains...$'\e[0m'
+echo $'\e[1;33m'[+] Enumerating subdomains...$'\e[0m'
 
 printf "\n\n"
 
@@ -101,7 +101,7 @@ echo $'\e[1;36m'############################################################### 
 
 printf "\n\n"
 
-echo $'\e[1;33'[+] Grabbing Information about Services running on Ports and Operating System...$'\e[0m'
+echo $'\e[1;33m'[+] Grabbing Information about Services running on Ports and Operating System...$'\e[0m'
 
 printf "\n\n"
 
@@ -115,7 +115,7 @@ echo $'\e[1;36m'############################################################### 
 
 printf "\n\n"
 
-echo $'\e[1;33'[+] Running Nikto Scanning...$'\e[0m'
+echo $'\e[1;33m'[+] Running Nikto Scanning...$'\e[0m'
 
 printf "\n\n"
 
@@ -129,7 +129,7 @@ echo $'\e[1;36m'############################################################### 
 
 printf "\n\n"
 
-echo $'\e[1;33'[+] Running Nuclei Scanning...$'\e[0m'
+echo $'\e[1;33m'[+] Running Nuclei Scanning...$'\e[0m'
 
 printf "\n\n"
 
@@ -151,7 +151,7 @@ echo $'\e[1;36m'############################################################### 
 
 printf "\n\n"
 
-echo $'\e[1;33'[+] Checking for Subdomain Takeover Vulnerability...$'\e[0m'
+echo $'\e[1;33m'[+] Checking for Subdomain Takeover Vulnerability...$'\e[0m'
 
 printf "\n\n"
 
@@ -165,7 +165,7 @@ echo $'\e[1;36m'############################################################### 
 
 printf "\n\n"
 
-echo $'\e1;33'[+] Finding Accessible Directories...$'\e[0m'
+echo $'\e1;33m'[+] Finding Accessible Directories...$'\e[0m'
 
 printf "\n\n"
 
@@ -179,7 +179,7 @@ echo $'\e[1;36m'############################################################### 
 
 printf "\n\n"
 
-echo $'\e[1;33'[+] Scanning for Injection Vulnerabilities...$'\e[0m'
+echo $'\e[1;33m'[+] Scanning for Injection Vulnerabilities...$'\e[0m'
 
 printf "\n\n"
 
