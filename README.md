@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://17h4ck3r11.github.io/Assaulter">
-    <img src="Image/logo.png" alt="Logo" width="240" height="240"> 
+    <img src="Images/logo.png" alt="Logo" width="240" height="240"> 
  </a>
 <br /> 
 <h2 align="center"><i>Hold it and Kill all the Vulnerabilities ( う-´)づ︻╦╤──</i></h2>
