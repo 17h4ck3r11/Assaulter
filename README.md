@@ -64,7 +64,7 @@ Assaulter is currently using multiple Python modules, to work properly. Instruct
 | ------ | ------ |
 | requests | [Link](https://requests.readthedocs.io/en/latest/) |
 | bs4 | [Link](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
-| termcolor | [Link](https://pypi.org/project/)
+| termcolor | [Link](https://pypi.org/project/termcolor/)
 | urllib.parse| [Link](https://docs.python.org/3/library/urllib.parse.html) |
 | sys | [Link](https://docs.python.org/3/library/sys.html) |
 
