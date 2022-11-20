@@ -74,7 +74,7 @@ Assaulter is currently using multiple Python modules, to work properly. Instruct
 This program is free software: you can redistribute it and/or modify it under the terms of the [MIT LICENSE](https://github.com/17h4ck3r11/Assaulter/blob/master/LICENSE).
 
 ## Contributor
-Before making any contribution, read the [Contribution Guide](https://github.com/17h4ck3r11/Assaulter/blob/master/CONTRIBUTING.md)
+Before making any contribution, read the [Contribution Guide](https://github.com/17h4ck3r11/Assaulter/blob/master/CONTRIBUTING.md).
 
 
 <table>
